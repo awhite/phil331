@@ -44,7 +44,7 @@ const Track = ({ link, text, lyrics, year, color, textColor, lyricColor, i }) =>
   return (
     <Container i={i} color={color} textColor={textColor} direction="row">
       <SpotifyTrack direction={i % 2 === 0 ? 'right' : 'left'}>
-        <iframe src={link} width="400" height="480" frameborder="0" allowtransparency="true" allow="encrypted-media" />
+        <iframe src={link} width="325" height="405" frameborder="0" allowtransparency="true" allow="encrypted-media" />
       </SpotifyTrack>
       <TextContainer>
         <Paragraph><strong>({year})</strong></Paragraph>
