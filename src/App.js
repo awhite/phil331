@@ -34,13 +34,17 @@ const Image = styled.img`
   margin-bottom: 12px;
 `;
 
+const Caption = styled.span`
+  text-align: center;
+`;
+
 const App = () => (
   <div className="container">
     <Heading>The Sublime in Music</Heading>
     <Flexbox direction="row">
       <Burke>
         <Image src={burke} alt="Edmund Burke" width="150px" />
-        <span>Edmund Burke</span>
+        <Caption>Edmund Burke</Caption>
       </Burke>
       <Quote>When danger or pain press too nearly, they are incapable of giving any delight, and are simply terrible; but at certain distances, and with certain modifications, they may be, and they are, delightful...</Quote>
     </Flexbox>
