@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import TrackList from './components/TrackList';
 import burke from './burke.jpg';
 import Flexbox from './components/Flexbox';
+import { quoteDarkBg as quote } from './styles/colors';
 
 const Heading = styled.h1`
   margin-top: 64px;
@@ -22,7 +23,7 @@ const Quote = styled(({ className, children }) => (
 ))`
   font-size: 1.5rem;
   font-style: italic;
-  color: #ccc;
+  color: ${quote};
 `;
 
 const Burke = styled(Flexbox)`

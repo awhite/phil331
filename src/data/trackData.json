@@ -1,12 +1,153 @@
-[
-  {
-    "link": "https://open.spotify.com/embed/track/3HsOlSmTjiUmwJLrrNutDR",
-    "text": "Incididunt incididunt magna eu ut officia consequat adipisicing labore cillum deserunt nostrud. Velit ex eiusmod est eiusmod ad incididunt est minim nisi occaecat eiusmod. Pariatur eu occaecat commodo nostrud. Culpa enim duis aliqua cupidatat officia velit consectetur laboris nisi cupidatat. Mollit elit do cupidatat dolor ut laborum non adipisicing fugiat veniam. In nisi duis nisi voluptate culpa amet commodo sint elit labore ad magna id. Lorem labore est quis irure. Et tempor commodo ad laboris laborum dolore. Aliquip nulla dolore ipsum ea elit ex exercitation esse elit laboris consectetur exercitation.",
-    "year": "2018"
+[{
+    "link": "https://open.spotify.com/embed/track/2xo1hCTIlNiPsskXOESAFK",
+    "text": "This selection from Welsh producer Kai Whiston features an intricate arrangement of guitar, flute, electric organ, vocals, and various drum patterns, layered together over a heavy bassline. In some parts of the piece, all of these elements are simlutaneously present in the mix, making it perhaps a bit chaotic. The sound of the track seems to be influenced by the vastness of the Glyder Fawr mountain, after which it was named. Glyder Fawr is the fifth largest mountain in Wales.",
+    "year": "2019",
+    "colors": {
+      "bg": "#37332d",
+      "text": "white"
+    }
   },
   {
-    "link": "https://open.spotify.com/embed/track/3HsOlSmTjiUmwJLrrNutDR",
-    "text": "Incididunt incididunt magna eu ut officia consequat adipisicing labore cillum deserunt nostrud. Velit ex eiusmod est eiusmod ad incididunt est minim nisi occaecat eiusmod. Pariatur eu occaecat commodo nostrud. Culpa enim duis aliqua cupidatat officia velit consectetur laboris nisi cupidatat. Mollit elit do cupidatat dolor ut laborum non adipisicing fugiat veniam. In nisi duis nisi voluptate culpa amet commodo sint elit labore ad magna id. Lorem labore est quis irure. Et tempor commodo ad laboris laborum dolore. Aliquip nulla dolore ipsum ea elit ex exercitation esse elit laboris consectetur exercitation.",
-    "year": "2018"
+    "link": "https://open.spotify.com/embed/track/1KQymTxNJfWk6vCD5ywKW2",
+    "text": "In the second verse of this song, Andre 3000 tells the story of a woman he used to know near the beginning of his career, whom he refers to as \"Sasha Thumper\". Sasha was a heroin addict; \"Thumper\" is in reference to how heroin users have to \"thump\" around on their arms to find a vein for injection.",
+    "lyrics": [
+      "I kept on singing my song and hoping at a show",
+      "That I would one day see her standing in the front row",
+      "But two weeks later, she got found in the back of a school",
+      "With a needle in her arm, baby two months due",
+      "Sasha Thumper"
+    ],
+    "year": "1998",
+    "colors": {
+      "bg": "#1e1f1e",
+      "text": "white"
+    }
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/439TlnnznSiBbQbgXiBqAd",
+    "text": "This album follows Kendrick through a day of his teenage years in Compton. This release explores the themes of drugs, sex, money, alcohol, crime, and gang violence, but does so in a much more personal and visceral way than other projects might be capable of. Kendrick so effectively turns the listener into a fly on the wall in the various settings throughout his day, from freestyling in the car with his friends to being peer pressured into participating in a home invasion. m.A.A.d city is the album's climax, where Kendrick discusses the toll his lifestyle, and ultimately the city itself, has taken on his mental health.",
+    "lyrics": [
+      "My pops said I needed a job, I thought I believed him",
+      "Security guard for a month and ended up leavin'",
+      "In fact, I got fired, 'cause I was inspired by all of my friends",
+      "To stage a robbery the third Saturday I clocked in",
+      "Projects tore up, gang signs get thrown up",
+      "Cocaine laced in marijuana",
+      "And they wonder why I rarely smoke now",
+      "Imagine if your first blunt had you foamin' at the mouth",
+      "I was straight tweakin', the next weekend we broke even",
+      "I made allegiance that made a promise to see you bleedin'",
+      "You know the reasons but still will never know my life",
+      "Kendrick a.k.a. \"Compton's Human Sacrifice\""
+    ],
+    "year": "2012",
+    "colors": {
+      "bg": "#9e9f87",
+      "text": "black"
+    }
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/52UcjsM15hjCQAUbTW2hy1",
+    "text": "This album is considered by many to be the crown jewel of shoegaze, a genre typically associated with obscured vocals over heavily distorted guitars, heavy reliance on effects pedals, and slow tempos. The end result is chaotic, heavily layered, noisy—but this vast wall of sound somehow maintains an air of levity. This song is a prime example of this effect, featuring indisputable beauty so closely juxtaposed with the sublime.",
+    "year": "1991",
+    "colors": {
+      "bg": "#a70a7a",
+      "text": "white"
+    }
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/2MWyl7mj5wM75B3t3D5z4E",
+    "text": "This track was recorded shortly after the death of Nick Cave's 15-year old son. It features a chilling mix of synths over a slow, simple drum beat, accompanied by heartwrenching vocals from Cave himself, in both sound and lyrical content. Cave sounds completely broken, yet there is something transfixing about the song.",
+    "year": "2016",
+    "lyrics": [
+      "When you're feeling like a lover",
+      "Nothing really matters anymore",
+      "I saw you standing there in the supermarket",
+      "With your red dress falling and your eyes are to the ground",
+      "Nothing really matters",
+      "Nothing really matters when the one you love is gone"
+    ],
+    "colors": {
+      "bg": "#040404",
+      "text": "white"
+    }
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/4uvE9ONuzNsYohejFh3hE4",
+    "text": "This selection from UK math rock band, black midi, features a fast-paced, abrasive sound, with multiple guitars often playing dissonant tones, and shouted vocals. The song discusses the water crisis in Flint, Michigan, and both the lyrics and instrumentation highlight the gravity of the situation. The government's delayed response to the issue resulted in sickness and death, and black midi want to make sure that the listener understands this.",
+    "lyrics": [
+      "I'm alive and I can see",
+      "The water is foul and it's hard to breathe",
+      "There's lead in the water, there's lead in the water",
+      "There's lead in the water and you think that I'm fine",
+      "I'm stained by the water and only the water",
+      "I'm drained by the water, are you losing your mind?",
+      "Dead in the water, dead in the water"
+    ],
+    "year": "2019",
+    "colors": {
+      "bg": "#d9d7d9",
+      "text": "black"
+    }
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/5ghIJDpPoe3CfHMGu71E6T",
+    "text": "This song brought grunge to the forefront of music in the early 90s, a genre with an inherently dark and heavy sound, with roots in heavy metal and punk rock. Featuring distorted guitars, shouted vocals, and energetic drumming, this song was described by the BBC as an anthem for bored youth, and remains one of the most critically acclaimed songs of all time.",
+    "year": "1991",
+    "lyrics": [
+      "With the lights out, it's less dangerous",
+      "Here we are now, entertain us",
+      "I feel stupid and contagious",
+      "Here we are now, entertain us",
+      "A mulatto, an albino",
+      "A mosquito, my libido"
+    ],
+    "colors": {
+      "bg": "#0e6ba5",
+      "text": "white"
+    }
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/7uW6TpsG5sqP5JxTLV7Bf0",
+    "text": "On this track, Chilean-American producer Nicolas Jaar layers heavily reverberating vocals atop one another in a round, backed by a simple bassline and drum beat, with occasional synth accompaniments and sci-fi sound effects. The end result is a an expansive yet minimalist soundscape that sounds like it was recorded in space.",
+    "year": "2011",
+    "colors": {
+      "bg": "#969696",
+      "text": "black"
+    }
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/722tgOgdIbNe3BEyLnejw4",
+    "text": "On this album, Kanye West ventures into industrial hip-hop, a genre known for its abrasive and distorted drum patterns. This track exhibits these features, in addition to frantic gasps from West, all atop a heavy bassline.",
+    "year": "2013",
+    "colors": {
+      "bg": "#6c2527",
+      "text": "white"
+    },
+    "lyrics": [
+      "So follow me up cause this shit 'bout to go (Down)",
+      "I'm doing 500, I'm outta control (Now)",
+      "But there's nowhere to go (Now)",
+      "And there's no way to slow (Down)",
+      "If I knew what I knew in the past",
+      "I would've been blacked out on your ass"
+    ]
+  },
+  {
+    "link": "https://open.spotify.com/embed/track/7ItFoQDmQIh3MAPsxiP6Vt",
+    "text": "This song sounds like a traffic jam. Frequent horn interjections, syncopated seemingly at random throughout, combine with Brown's signature high-pitched flow and a formidable drum line to produce a track that is as hectic as it is catchy.",
+    "year": "2016",
+    "colors": {
+      "bg": "#beb5b7",
+      "text": "black"
+    },
+    "lyrics": [
+      "Octopus in a straight jacket",
+      "Savage with bad habits",
+      "Broke serving fiends",
+      "Got rich became a addict",
+      "Ain’t it funny how it happens",
+      "Who would ever would imagine"
+    ]
   }
 ]
